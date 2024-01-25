@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+We are the Xi SAM/Fenway Alumni Corporation, the nonprofit organization that owns and operates Fenway House for the MIT students who are its members.

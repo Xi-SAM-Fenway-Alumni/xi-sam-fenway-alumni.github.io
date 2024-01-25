@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Xi SAM/Fenway Alumni Corporation is a Massachusetts 501(c)(7) social club.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The Purposes for which the Corporation is formed are as follows:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+1. Provide, operate and maintain a residence and other facilities for students of the Massachusetts Institute of Technology (MIT) who are members of Fenway House and/or Xi Chapter Sigma Alpha Mu fraternity.
 
-
-[jekyll-organization]: https://github.com/jekyll
+2. Afford an opportunity for members of the Corporation and members of resident organizations of the property owned by the Corporation to broaden their educational horizons through study, discussion and group activities; enable them to pursue their intellectual, social and artistic interests; and encourage them to participate in community affairs.
