@@ -5,7 +5,7 @@
 layout: home
 ---
 
-The Xi SAM / Fenway Alumni Corporation, Inc., represents the alumni and residents of MIT Fenway House and also its predecessor, the Xi Chapter of Sigma Alpha Mu Fraternity. First chartered in 1960, we own, operate, and maintain [Fenway House](https://fenway.house), a residence in Boston for our student members at the [Massachusetts Institute of Technology](https://web.mit.edu/). We also work to broaden the educational horizons of our MIT student and alumni members through study, discussion, and group activities; enable them to pursue their intellectual, social, and artistic interests; and encourage them to participate in community affairs.
+The Xi SAM / Fenway Alumni Corporation represents the alumni and residents of MIT Fenway House and also its predecessor, the Xi Chapter of Sigma Alpha Mu Fraternity. First chartered in 1960, we own, operate, and maintain [Fenway House](https://fenway.house), a residence in Boston for our student members at the [Massachusetts Institute of Technology](https://web.mit.edu/). We also work to broaden the educational horizons of our MIT student and alumni members through study, discussion, and group activities; enable them to pursue their intellectual, social, and artistic interests; and encourage them to participate in community affairs.
 
 We are a member of the [Association of Independent Living Groups](https://ailg.mit.edu/) at MIT. We are a Massachusetts nonprofit corporation and designated 501(c)(7) by the IRS.
 
