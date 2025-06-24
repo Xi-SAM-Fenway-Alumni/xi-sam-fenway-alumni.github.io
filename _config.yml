@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Xi SAM/Fenway Alumni Corporation
-# email: info@xisamfenwayalumni.org
+title: Xi SAM / Fenway Alumni Corporation
+author: Copyright (c) 2025
+email: webmaster@xisamfenwayalumni.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Xi SAM/Fenway Alumni Corporation
+  Supporting the student and alumni members of Fenway House and Xi Chapter, Sigma Alpha Mu Fraternity at the Massachusetts Institute of Technology
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "xisamfenwayalumni.org"
 url: "https://xisamfenwayalumni.org" # the base hostname & protocol for your site, e.g. http://example.com
