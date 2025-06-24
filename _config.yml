@@ -33,6 +33,8 @@ url: "https://xisamfenwayalumni.org" # the base hostname & protocol for your sit
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+  quiet_deps: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
