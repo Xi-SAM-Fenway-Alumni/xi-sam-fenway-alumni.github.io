@@ -32,7 +32,7 @@ non-profit (this may vary for state taxes depending on your state's tax
 code).
 
 To set your living group in your Profile: Log onto the Infinite
-Connection (https://alum.mit.edu/login), go to the My Account dropdown
+Connection (<https://alum.mit.edu/login>), go to the My Account dropdown
 at the upper right and select Edit Profile. Then pick the MIT tab
 (between Work and Volunteer) and scroll down to Living Groups. If there
 is nothing listed (or it is wrong), click the pencil icon and you can
