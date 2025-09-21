@@ -9,7 +9,7 @@ The Xi SAM / Fenway Alumni Corporation represents the alumni and residents of MI
 
 We are a member of the [Association of Independent Living Groups](https://ailg.mit.edu/) at MIT. We are a Massachusetts nonprofit corporation and designated 501(c)(7) by the IRS.
 
-Please consider giving to our Capital Campaign (<https://xi-sam-fenway/campaign>)!
+Please consider giving to our Capital Campaign (<https://xisamfenwayalumni.org/campaign>)!
 
 ## Board of Directors
 Elections for board officers and other directors are held at the Annual Meeting in October of every year. Board officers serve for one year. Other directors serve for three years, with one director up for election each year. Our Board of Directors through October 2025 is:
