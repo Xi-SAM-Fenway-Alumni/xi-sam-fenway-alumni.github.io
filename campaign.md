@@ -13,8 +13,7 @@ hope that you will give through one of these ways:
     SAM/Fenway Alumni Corporation; c/o Marc Tanner, Treasurer; 7 Spencer
     Ave; Somerville MA 02144
 
-3.  Donate to the IRDF fund (<https://giving.mit.edu/irdf>) to help
-    repay our IRDF loan for the fire alarm system. Before doing that,
+3.  Donate to the IRDF fund (<https://giving.mit.edu/irdf>).  Donations made during the Capital Campaign will be made available to us via a Major Project Grant, which we will use towards paying off the IRDF loan for the fire alarm system. Before donating to the IRDF,
     please make sure your Infinite Connection profile lists either
     Fenway House or Sigma Alpha Mu so the donation is credited to us! We
     also ask that you let us know that you are donating to the IRDF on
@@ -24,9 +23,8 @@ hope that you will give through one of these ways:
 **Notes:**
 
 Donations to the IRDF are tax deductible to the extent permitted by law.
-90% of your IRDF donation will be applied to our loan; 10% will be
-retained by the IRDF to support their projects (grants, loans) for
-independent living groups in general. Donations to the Alumni
+90% of your IRDF donation will be made available to us via a Major Project Grant; 10% will be
+retained by the IRDF to support programs for the greater FSILG community. Donations to the Alumni
 Corporation are **not** generally tax deductible, as we are a 501(c)7
 non-profit (this may vary for state taxes depending on your state's tax
 code).
